@@ -8,7 +8,7 @@
 int main(void)
 {
 	int n = '0';
-	char aplha = 'a';
+	char alpha = 'a';
 
 	for (n = '0'; n > 10; n++)
 	{
